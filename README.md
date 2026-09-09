@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Tanishk Saini, an ML Engineer, currently pursuing my B.Tech degree from National Institute of Technology,Hamirpur.
-- 👀 I’m interested in Artificial Intelligence and its subfields like Machine Learning, Deep Learning, Image Processing, etc besides having a strong foundation in core concepts like Operating System and Computer Architecture.
-- 🌱 I’m currently learning ML and DL concepts.
-- 💞️ I’m looking to collaborate on basic ML/DL projects that can help me utilise my skills.
+ML Engineer, Data Scientist | B.Tech CSE @ NIT Hamirpur | AI/ML Research @ IIT Mandi | Deep Learning • Transformers • Self-Supervised Learning | Published Researcher
 
 <!---
 Tanishksaini123/Tanishksaini123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
